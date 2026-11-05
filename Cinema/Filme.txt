@@ -1,0 +1,9 @@
+titlu#gen#durata#pretBilet#locuriLibere#in3D#regizor
+Dune#SF#155#38.5#12#true#Villeneuve
+Oppenheimer#Drama#180#35#0#false#Nolan
+Inside Out#Animatie#96#24#25#true#Docter
+Barbie#Comedie#114#29.5#8#false#Gerwig
+Gladiator#Actiune#155#27#18#false#Scott
+Avatar#SF#162#42#5#true#Cameron
+Shrek#Animatie#90#19#30#false#Adamson
+Joker#Thriller#122#33#0#false#Phillips
